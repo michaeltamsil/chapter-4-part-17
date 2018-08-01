@@ -1,0 +1,24 @@
+{
+  "name": "testing-nodejs-01",
+  "version": "0.1.0",
+  "description": "learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeltamsil/chapter-4-part-17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeltamsil/chapter-4-part-17/issues"
+  },
+  "homepage": "https://github.com/michaeltamsil/chapter-4-part-17#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "ramda": "^0.25.0"
+  }
+}
